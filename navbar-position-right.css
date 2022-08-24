@@ -1,0 +1,10 @@
+//move a div within a navbar all the way to the right side
+
+div {
+  display: flex;
+  justify-content: flex-end;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
